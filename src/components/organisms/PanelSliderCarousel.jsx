@@ -114,7 +114,7 @@ export default function PanelSliderCarousel() {
                     {
                         imgList.map((item, index) => (
                             <div key={index}   className={styles["img-container"]} >
-                                <FullImageCardComponent id={item.id} title={item.label} imgPath={item.imgPath} isShowTitle={true} height="150px" width="200px"></FullImageCardComponent>
+                                <FullImageCardComponent id={item.id} title={item.label} imgPath={item.imgPath} isShowTitle={true}  width="200px"></FullImageCardComponent>
                             </div>
 
 
