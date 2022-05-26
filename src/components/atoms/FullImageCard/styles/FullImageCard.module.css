@@ -1,0 +1,38 @@
+  /**
+   * Max Card with for demo
+   * same values used in Material-Ui Card Demos
+   */
+
+
+  .fcard {
+    position: relative;
+    width: 300px;
+    height: 180px;
+    transition: all 0.7s;
+    margin: auto;
+    
+  }
+
+  /* .fcard:hover {
+    transform: scale(1.2, 1.2);
+    filter: brightness(0.7);
+  
+    z-index: 2;
+  } */
+
+  /**
+   * Applied to Orginal Card demo
+   * Same vale used in Material-ui Card Demos
+   */
+  .fmedia {
+    width: 300px;
+    height: 180px;
+    vertical-align: 0px;
+    transition: all 0.7s;
+    user-select: none;
+  }
+
+  .fcard-title {
+    text-align: left;
+
+  }
