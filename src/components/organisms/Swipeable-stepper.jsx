@@ -11,7 +11,6 @@ import ganganyaan from '../../assets/img/ganganyaan.jpeg'
 import babludablu from '../../assets/img/babludablu.jpeg'
 import michaeljackson from '../../assets/img/michaeljackson.jpeg'
 import ramayana from '../../assets/img/ramayana.jpeg'
-import Container from '@mui/material/Container';
 import MediaControledCardComponent from '../atoms/MediaControledCard'
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);

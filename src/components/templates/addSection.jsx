@@ -1,8 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-
 import ad from './../../assets/img/ad.jpeg'
-import { borderRadius } from '@mui/system'
 
 function AddSection() {
   return (
