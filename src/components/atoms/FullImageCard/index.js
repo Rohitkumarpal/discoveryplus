@@ -59,7 +59,7 @@ const FullImageCardComponent = (props) => {
                   <PlayCircleOutlineIcon
                     style={{ fontSize: "70px", color: "white", fontWeight: "bolder" }}
                   />
-                  ..
+                
                   {!props.isShowTitle && (<p>{props.title}</p>)}
                 </div>
                 <p style={{

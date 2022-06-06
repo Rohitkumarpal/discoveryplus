@@ -510,7 +510,7 @@ function Row({
         >
           <Typography className={styles.title}  component="h5">
           {children}
-          </Typography>;
+          </Typography>
 
           <Button  color="secondary" sx={{ height: 40 }}>
             View All

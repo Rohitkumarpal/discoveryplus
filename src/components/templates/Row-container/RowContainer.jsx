@@ -5,7 +5,7 @@ import styles from './styles/RowContainer.module.css';
 
 const RowContainer = () => (
   <div className={styles.container}>
-    <Row category="ShowYouLoved" isNetflixRow>Show You Loved</Row>
+    <Row category="ShowYouLoved" >Show You Loved</Row>
     <Row category="NewlyAddedShows">Newly Added Shows</Row>
     <Row category="StreamForfreeNow">Stream For Free Now</Row>
     <Row category="CommingSoonOnDiscovery">Comming Soon On Discovery+</Row>
